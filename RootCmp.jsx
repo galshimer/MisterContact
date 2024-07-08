@@ -1,7 +1,7 @@
 const Router = ReactRouterDOM.HashRouter
 const { Routes, Route } = ReactRouterDOM
 
-import { HomePage } from "./pages/HomePagePage.jsx"
+import { HomePage } from "./pages/HomePage.jsx"
 
 export function RootCmp() {
 
